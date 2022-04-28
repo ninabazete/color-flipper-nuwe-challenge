@@ -1,0 +1,19 @@
+.btn-pick-color {
+    margin-top: 20px;
+    padding: 5px;
+    min-width: 260px;
+    height: 56px;
+    text-decoration: none;
+    background-color: white;
+    border-radius: 5px;
+    border: 2px solid #000000;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    transition: 0.2s ease;
+    cursor: pointer;
+  }
+  
+  .btn-pick-color:hover {
+    border: 4px solid #f75ead;
+  }
